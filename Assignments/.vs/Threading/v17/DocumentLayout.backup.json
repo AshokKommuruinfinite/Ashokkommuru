@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ashokko\\Documents\\Assignments\\Threading\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Threading||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{906A3816-1D72-40AA-ACF4-9B5D7AB7C9CC}|Threading\\Threading.csproj|c:\\users\\ashokko\\documents\\assignments\\threading\\threading\\interest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{906A3816-1D72-40AA-ACF4-9B5D7AB7C9CC}|Threading\\Threading.csproj|solutionrelative:threading\\interest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{906A3816-1D72-40AA-ACF4-9B5D7AB7C9CC}|Threading\\Threading.csproj|c:\\users\\ashokko\\documents\\assignments\\threading\\threading\\onlinestore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{906A3816-1D72-40AA-ACF4-9B5D7AB7C9CC}|Threading\\Threading.csproj|solutionrelative:threading\\onlinestore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{906A3816-1D72-40AA-ACF4-9B5D7AB7C9CC}|Threading\\Threading.csproj|C:\\Users\\ashokko\\Documents\\Assignments\\Threading\\threading\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{906A3816-1D72-40AA-ACF4-9B5D7AB7C9CC}|Threading\\Threading.csproj|solutionrelative:threading\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{906A3816-1D72-40AA-ACF4-9B5D7AB7C9CC}|Threading\\Threading.csproj|c:\\users\\ashokko\\documents\\assignments\\threading\\threading\\shipping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{906A3816-1D72-40AA-ACF4-9B5D7AB7C9CC}|Threading\\Threading.csproj|solutionrelative:threading\\shipping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{906A3816-1D72-40AA-ACF4-9B5D7AB7C9CC}|Threading\\Threading.csproj|c:\\users\\ashokko\\documents\\assignments\\threading\\threading\\rate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{906A3816-1D72-40AA-ACF4-9B5D7AB7C9CC}|Threading\\Threading.csproj|solutionrelative:threading\\rate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{906A3816-1D72-40AA-ACF4-9B5D7AB7C9CC}|Threading\\Threading.csproj|c:\\users\\ashokko\\documents\\assignments\\threading\\threading\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Threading",
+              "DocumentMoniker": "C:\\Users\\ashokko\\Documents\\Assignments\\Threading\\Threading\\Threading.csproj",
+              "RelativeDocumentMoniker": "Threading\\Threading.csproj",
+              "ToolTip": "C:\\Users\\ashokko\\Documents\\Assignments\\Threading\\Threading\\Threading.csproj*",
+              "RelativeToolTip": "Threading\\Threading.csproj*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-10T17:27:01.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Onlinestore.cs",
+              "DocumentMoniker": "C:\\Users\\ashokko\\Documents\\Assignments\\Threading\\Threading\\Onlinestore.cs",
+              "RelativeDocumentMoniker": "Threading\\Onlinestore.cs",
+              "ToolTip": "C:\\Users\\ashokko\\Documents\\Assignments\\Threading\\Threading\\Onlinestore.cs",
+              "RelativeToolTip": "Threading\\Onlinestore.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAswDgAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T17:24:55.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Rate.cs",
+              "DocumentMoniker": "C:\\Users\\ashokko\\Documents\\Assignments\\Threading\\Threading\\Rate.cs",
+              "RelativeDocumentMoniker": "Threading\\Rate.cs",
+              "ToolTip": "C:\\Users\\ashokko\\Documents\\Assignments\\Threading\\Threading\\Rate.cs",
+              "RelativeToolTip": "Threading\\Rate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T17:18:08.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Interest.cs",
+              "DocumentMoniker": "C:\\Users\\ashokko\\Documents\\Assignments\\Threading\\Threading\\Interest.cs",
+              "RelativeDocumentMoniker": "Threading\\Interest.cs",
+              "ToolTip": "C:\\Users\\ashokko\\Documents\\Assignments\\Threading\\Threading\\Interest.cs",
+              "RelativeToolTip": "Threading\\Interest.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T17:16:35.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Shipping.cs",
+              "DocumentMoniker": "C:\\Users\\ashokko\\Documents\\Assignments\\Threading\\Threading\\Shipping.cs",
+              "RelativeDocumentMoniker": "Threading\\Shipping.cs",
+              "ToolTip": "C:\\Users\\ashokko\\Documents\\Assignments\\Threading\\Threading\\Shipping.cs",
+              "RelativeToolTip": "Threading\\Shipping.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T16:28:09.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ashokko\\Documents\\Assignments\\Threading\\Threading\\Program.cs",
+              "RelativeDocumentMoniker": "Threading\\Program.cs",
+              "ToolTip": "C:\\Users\\ashokko\\Documents\\Assignments\\Threading\\Threading\\Program.cs",
+              "RelativeToolTip": "Threading\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-10T16:06:56.438Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

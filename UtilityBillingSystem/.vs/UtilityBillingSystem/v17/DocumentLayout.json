@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ashokko\\Documents\\C#\\Nov5\\Assignment1\\UtilityBillingSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D61E83B-B9D9-4223-BF7C-DF719F05841D}|UtilityBillingSystem\\UtilityBillingSystem.csproj|c:\\users\\ashokko\\documents\\c#\\nov5\\assignment1\\utilitybillingsystem\\utilitybillingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D61E83B-B9D9-4223-BF7C-DF719F05841D}|UtilityBillingSystem\\UtilityBillingSystem.csproj|solutionrelative:utilitybillingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D61E83B-B9D9-4223-BF7C-DF719F05841D}|UtilityBillingSystem\\UtilityBillingSystem.csproj|C:\\Users\\ashokko\\Documents\\C#\\Nov5\\Assignment1\\UtilityBillingSystem\\utilitybillingsystem\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D61E83B-B9D9-4223-BF7C-DF719F05841D}|UtilityBillingSystem\\UtilityBillingSystem.csproj|solutionrelative:utilitybillingsystem\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D61E83B-B9D9-4223-BF7C-DF719F05841D}|UtilityBillingSystem\\UtilityBillingSystem.csproj|C:\\Users\\ashokko\\Documents\\C#\\Nov5\\Assignment1\\UtilityBillingSystem\\utilitybillingsystem\\bulidingsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D61E83B-B9D9-4223-BF7C-DF719F05841D}|UtilityBillingSystem\\UtilityBillingSystem.csproj|solutionrelative:utilitybillingsystem\\bulidingsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\ashokko\\Documents\\C#\\Nov5\\Assignment1\\UtilityBillingSystem\\UtilityBillingSystem\\Customer.cs",
+              "RelativeDocumentMoniker": "UtilityBillingSystem\\Customer.cs",
+              "ToolTip": "C:\\Users\\ashokko\\Documents\\C#\\Nov5\\Assignment1\\UtilityBillingSystem\\UtilityBillingSystem\\Customer.cs",
+              "RelativeToolTip": "UtilityBillingSystem\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T12:10:38.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BulidingSystem.cs",
+              "DocumentMoniker": "C:\\Users\\ashokko\\Documents\\C#\\Nov5\\Assignment1\\UtilityBillingSystem\\UtilityBillingSystem\\BulidingSystem.cs",
+              "RelativeDocumentMoniker": "UtilityBillingSystem\\BulidingSystem.cs",
+              "ToolTip": "C:\\Users\\ashokko\\Documents\\C#\\Nov5\\Assignment1\\UtilityBillingSystem\\UtilityBillingSystem\\BulidingSystem.cs",
+              "RelativeToolTip": "UtilityBillingSystem\\BulidingSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T12:10:03.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ashokko\\Documents\\C#\\Nov5\\Assignment1\\UtilityBillingSystem\\UtilityBillingSystem\\Program.cs",
+              "RelativeDocumentMoniker": "UtilityBillingSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\ashokko\\Documents\\C#\\Nov5\\Assignment1\\UtilityBillingSystem\\UtilityBillingSystem\\Program.cs",
+              "RelativeToolTip": "UtilityBillingSystem\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-07T12:08:59.481Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
