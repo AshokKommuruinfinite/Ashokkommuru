@@ -1,0 +1,7 @@
+C:\Users\ashokko\Documents\Assignments\Nov 17\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.csproj.AssemblyReference.cache
+C:\Users\ashokko\Documents\Assignments\Nov 17\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\ashokko\Documents\Assignments\Nov 17\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\EmployeeManagementSystem.exe.config
+C:\Users\ashokko\Documents\Assignments\Nov 17\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\EmployeeManagementSystem.exe
+C:\Users\ashokko\Documents\Assignments\Nov 17\EmployeeManagementSystem\EmployeeManagementSystem\bin\Debug\EmployeeManagementSystem.pdb
+C:\Users\ashokko\Documents\Assignments\Nov 17\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.exe
+C:\Users\ashokko\Documents\Assignments\Nov 17\EmployeeManagementSystem\EmployeeManagementSystem\obj\Debug\EmployeeManagementSystem.pdb
