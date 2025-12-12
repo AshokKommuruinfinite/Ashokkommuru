@@ -1,0 +1,8 @@
+C:\Users\ashokko\Documents\Training\TrackDBApp\TrackDBApp\bin\Debug\TrackDBApp.exe.config
+C:\Users\ashokko\Documents\Training\TrackDBApp\TrackDBApp\bin\Debug\TrackDBApp.exe
+C:\Users\ashokko\Documents\Training\TrackDBApp\TrackDBApp\bin\Debug\TrackDBApp.pdb
+C:\Users\ashokko\Documents\Training\TrackDBApp\TrackDBApp\obj\Debug\TrackDBApp.csproj.AssemblyReference.cache
+C:\Users\ashokko\Documents\Training\TrackDBApp\TrackDBApp\obj\Debug\TrackDBApp.csproj.CoreCompileInputs.cache
+C:\Users\ashokko\Documents\Training\TrackDBApp\TrackDBApp\obj\Debug\TrackDBApp.exe
+C:\Users\ashokko\Documents\Training\TrackDBApp\TrackDBApp\obj\Debug\TrackDBApp.pdb
+C:\Users\ashokko\Documents\Training\TrackDBApp\TrackDBApp\obj\Debug\TrackDBApp.exe.config
