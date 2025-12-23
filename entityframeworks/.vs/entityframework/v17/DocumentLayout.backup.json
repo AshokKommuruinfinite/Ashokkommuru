@@ -7,15 +7,15 @@
       "RelativeMoniker": "D:0:0:{C5392918-43AE-4CB7-9F05-E76126B9EB2C}|entityframework\\entityframework.csproj|solutionrelative:entityframework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C5392918-43AE-4CB7-9F05-E76126B9EB2C}|entityframework\\entityframework.csproj|c:\\users\\ashokko\\documents\\training\\entityframework\\entityframework\\ipl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C5392918-43AE-4CB7-9F05-E76126B9EB2C}|entityframework\\entityframework.csproj|C:\\Users\\ashokko\\Documents\\Training\\entityframework\\entityframework\\ipl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C5392918-43AE-4CB7-9F05-E76126B9EB2C}|entityframework\\entityframework.csproj|solutionrelative:entityframework\\ipl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C5392918-43AE-4CB7-9F05-E76126B9EB2C}|entityframework\\entityframework.csproj|c:\\users\\ashokko\\documents\\training\\entityframework\\entityframework\\etyfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C5392918-43AE-4CB7-9F05-E76126B9EB2C}|entityframework\\entityframework.csproj|C:\\Users\\ashokko\\Documents\\Training\\entityframework\\entityframework\\etyfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C5392918-43AE-4CB7-9F05-E76126B9EB2C}|entityframework\\entityframework.csproj|solutionrelative:entityframework\\etyfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C5392918-43AE-4CB7-9F05-E76126B9EB2C}|entityframework\\entityframework.csproj|c:\\users\\ashokko\\documents\\training\\entityframework\\entityframework\\model1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C5392918-43AE-4CB7-9F05-E76126B9EB2C}|entityframework\\entityframework.csproj|C:\\Users\\ashokko\\Documents\\Training\\entityframework\\entityframework\\model1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C5392918-43AE-4CB7-9F05-E76126B9EB2C}|entityframework\\entityframework.csproj|solutionrelative:entityframework\\model1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -38,8 +38,7 @@
               "RelativeToolTip": "entityframework\\Ipl.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-15T12:00:06.981Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-15T12:00:06.981Z"
             },
             {
               "$type": "Document",
@@ -51,8 +50,7 @@
               "RelativeToolTip": "entityframework\\EtyFrm.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-15T11:57:26.383Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-15T11:57:26.383Z"
             },
             {
               "$type": "Document",
@@ -64,8 +62,7 @@
               "RelativeToolTip": "entityframework\\Model1.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAAYwAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-15T07:31:20.644Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-15T07:31:20.644Z"
             },
             {
               "$type": "Document",
@@ -75,7 +72,7 @@
               "RelativeDocumentMoniker": "entityframework\\Program.cs",
               "ToolTip": "C:\\Users\\ashokko\\Documents\\Training\\entityframework\\entityframework\\Program.cs",
               "RelativeToolTip": "entityframework\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-15T07:30:27.427Z",
               "EditorCaption": ""
