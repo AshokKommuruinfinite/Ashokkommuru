@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ashokko\\Documents\\Bhanu\\ProductsAssignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D4773E80-A707-4517-BF70-099B99BE1E44}|ProductsAssignment\\ProductsAssignment.csproj|c:\\users\\ashokko\\documents\\bhanu\\productsassignment\\productsassignment\\webform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4773E80-A707-4517-BF70-099B99BE1E44}|ProductsAssignment\\ProductsAssignment.csproj|solutionrelative:productsassignment\\webform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4773E80-A707-4517-BF70-099B99BE1E44}|ProductsAssignment\\ProductsAssignment.csproj|c:\\users\\ashokko\\documents\\bhanu\\productsassignment\\productsassignment\\webform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D4773E80-A707-4517-BF70-099B99BE1E44}|ProductsAssignment\\ProductsAssignment.csproj|solutionrelative:productsassignment\\webform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebForm.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\ashokko\\Documents\\Bhanu\\ProductsAssignment\\ProductsAssignment\\WebForm.aspx.cs",
+              "RelativeDocumentMoniker": "ProductsAssignment\\WebForm.aspx.cs",
+              "ToolTip": "C:\\Users\\ashokko\\Documents\\Bhanu\\ProductsAssignment\\ProductsAssignment\\WebForm.aspx.cs",
+              "RelativeToolTip": "ProductsAssignment\\WebForm.aspx.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBQAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-25T19:08:02.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebForm.aspx",
+              "DocumentMoniker": "C:\\Users\\ashokko\\Documents\\Bhanu\\ProductsAssignment\\ProductsAssignment\\WebForm.aspx",
+              "RelativeDocumentMoniker": "ProductsAssignment\\WebForm.aspx",
+              "ToolTip": "C:\\Users\\ashokko\\Documents\\Bhanu\\ProductsAssignment\\ProductsAssignment\\WebForm.aspx",
+              "RelativeToolTip": "ProductsAssignment\\WebForm.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-12-25T19:06:08.327Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
