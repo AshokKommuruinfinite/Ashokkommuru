@@ -1,0 +1,26 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Multiplication and Division</title>
+</head>
+<body>
+    Enter first number: <input id="n1"><br><br>
+    Enter second number: <input id="n2"><br><br>   
+    <button onclick="calc()">Calculate</button>
+    <p id="result"></p>
+    <script>
+    function calc() {
+        var a = document.getElementById("n1").value;
+        var b = document.getElementById("n2").value;    
+        var mul = a * b;
+        var div = a / b;   
+        document.getElementById("result").innerHTML =
+            "Multiplication = " + mul + "<br>" +
+            "Division = " + div;
+    }
+</script>
+</body>
+</html>
+
+
