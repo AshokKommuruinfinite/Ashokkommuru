@@ -1,0 +1,7 @@
+C:\Users\ashokko\Documents\Bhanu\CC6\CC6\bin\Debug\CC6.exe.config
+C:\Users\ashokko\Documents\Bhanu\CC6\CC6\bin\Debug\CC6.exe
+C:\Users\ashokko\Documents\Bhanu\CC6\CC6\bin\Debug\CC6.pdb
+C:\Users\ashokko\Documents\Bhanu\CC6\CC6\obj\Debug\CC6.csproj.AssemblyReference.cache
+C:\Users\ashokko\Documents\Bhanu\CC6\CC6\obj\Debug\CC6.csproj.CoreCompileInputs.cache
+C:\Users\ashokko\Documents\Bhanu\CC6\CC6\obj\Debug\CC6.exe
+C:\Users\ashokko\Documents\Bhanu\CC6\CC6\obj\Debug\CC6.pdb
