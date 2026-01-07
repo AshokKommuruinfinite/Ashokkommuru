@@ -1,8 +1,0 @@
-C:\Users\ashokko\Documents\Anand Sir\Day1Assignments\Day1Assignments\bin\Debug\Day1Assignments.exe.config
-C:\Users\ashokko\Documents\Anand Sir\Day1Assignments\Day1Assignments\bin\Debug\Day1Assignments.exe
-C:\Users\ashokko\Documents\Anand Sir\Day1Assignments\Day1Assignments\bin\Debug\Day1Assignments.pdb
-C:\Users\ashokko\Documents\Anand Sir\Day1Assignments\Day1Assignments\obj\Debug\Day1Assignments.csproj.AssemblyReference.cache
-C:\Users\ashokko\Documents\Anand Sir\Day1Assignments\Day1Assignments\obj\Debug\Day1Assignments.csproj.CoreCompileInputs.cache
-C:\Users\ashokko\Documents\Anand Sir\Day1Assignments\Day1Assignments\obj\Debug\Day1Assignments.exe
-C:\Users\ashokko\Documents\Anand Sir\Day1Assignments\Day1Assignments\obj\Debug\Day1Assignments.pdb
-C:\Users\ashokko\Documents\Anand Sir\Day1Assignments\Day1Assignments\obj\Debug\Day1Assignments.exe.config

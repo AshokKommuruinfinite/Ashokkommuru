@@ -1,7 +1,0 @@
-C:\Users\ashokko\Documents\Anand Sir\Nov 25\HRPay\HRPay\bin\Debug\HRPay.exe.config
-C:\Users\ashokko\Documents\Anand Sir\Nov 25\HRPay\HRPay\bin\Debug\HRPay.exe
-C:\Users\ashokko\Documents\Anand Sir\Nov 25\HRPay\HRPay\bin\Debug\HRPay.pdb
-C:\Users\ashokko\Documents\Anand Sir\Nov 25\HRPay\HRPay\obj\Debug\HRPay.csproj.AssemblyReference.cache
-C:\Users\ashokko\Documents\Anand Sir\Nov 25\HRPay\HRPay\obj\Debug\HRPay.csproj.CoreCompileInputs.cache
-C:\Users\ashokko\Documents\Anand Sir\Nov 25\HRPay\HRPay\obj\Debug\HRPay.exe
-C:\Users\ashokko\Documents\Anand Sir\Nov 25\HRPay\HRPay\obj\Debug\HRPay.pdb
