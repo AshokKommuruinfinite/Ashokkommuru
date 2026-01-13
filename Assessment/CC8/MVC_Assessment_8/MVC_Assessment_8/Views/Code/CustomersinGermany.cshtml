@@ -1,0 +1,40 @@
+﻿@model IEnumerable<MVC_Assessment_8.Models.Customer>
+
+@{
+
+    Layout = null;
+
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Customers in Germany</title>
+</head>
+<body>
+    <h2>Customers in Germany</h2>
+    <table>
+        <tr>
+            <th>Customer ID</th>
+            <th>Company Name</th>
+            <th>Contact Name</th>
+            <th>City</th>
+        </tr>
+
+        @foreach (var customer in Model)
+
+        {
+            <tr>
+                <td>@customer.CustomerID</td>
+                <td>@customer.CompanyName</td>
+                <td>@customer.ContactName</td>
+                <td>@customer.City</td>
+            </tr>
+
+        }
+    </table>
+</body>
+</html>
+
+

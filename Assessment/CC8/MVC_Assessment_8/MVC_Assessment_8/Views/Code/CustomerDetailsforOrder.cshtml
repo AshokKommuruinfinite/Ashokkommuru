@@ -1,0 +1,40 @@
+﻿@model MVC_Assessment_8.Models.Order
+
+@{
+
+    Layout = null;
+
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Customer Details</title>
+
+</head>
+<body>
+    <h2>Customer Details for Order 10248</h2>
+
+    @if (Model != null)
+
+    {
+        <div class="customer-details">
+            <p><strong>Customer ID:</strong> @Model.CustomerID</p>
+            <p><strong>Company Name:</strong> @Model.CompanyName</p>
+            <p><strong>Contact Name:</strong> @Model.ContactName</p>
+            <p><strong>Country:</strong> @Model.Country</p>
+        </div>
+
+    }
+
+    else
+
+    {
+        <p class="no-data">No customer found for this order.</p>
+
+    }
+</body>
+</html>
+
+

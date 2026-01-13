@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ashokko\\Documents\\Training\\Assessment\\CC8\\MVC_Assessment_8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{61526541-36DD-475E-805C-D0952A60357F}|MVC_Assessment_8\\MVC_Assessment_8.csproj|c:\\users\\ashokko\\documents\\training\\assessment\\cc8\\mvc_assessment_8\\mvc_assessment_8\\controllers\\codecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61526541-36DD-475E-805C-D0952A60357F}|MVC_Assessment_8\\MVC_Assessment_8.csproj|solutionrelative:mvc_assessment_8\\controllers\\codecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61526541-36DD-475E-805C-D0952A60357F}|MVC_Assessment_8\\MVC_Assessment_8.csproj|C:\\Users\\ashokko\\Documents\\Training\\Assessment\\CC8\\MVC_Assessment_8\\mvc_assessment_8\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61526541-36DD-475E-805C-D0952A60357F}|MVC_Assessment_8\\MVC_Assessment_8.csproj|solutionrelative:mvc_assessment_8\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61526541-36DD-475E-805C-D0952A60357F}|MVC_Assessment_8\\Assessment_1.csproj|C:\\Users\\ashokko\\Documents\\Training\\Assessment\\CC8\\MVC_Assessment_8\\mvc_assessment_8\\views\\code\\customerdetailsfororder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61526541-36DD-475E-805C-D0952A60357F}|MVC_Assessment_8\\Assessment_1.csproj|solutionrelative:mvc_assessment_8\\views\\code\\customerdetailsfororder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61526541-36DD-475E-805C-D0952A60357F}|MVC_Assessment_8\\Assessment_1.csproj|C:\\Users\\ashokko\\Documents\\Training\\Assessment\\CC8\\MVC_Assessment_8\\mvc_assessment_8\\views\\code\\customersingermany.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{61526541-36DD-475E-805C-D0952A60357F}|MVC_Assessment_8\\Assessment_1.csproj|solutionrelative:mvc_assessment_8\\views\\code\\customersingermany.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61526541-36DD-475E-805C-D0952A60357F}|MVC_Assessment_8\\MVC_Assessment_8.csproj|C:\\Users\\ashokko\\Documents\\Training\\Assessment\\CC8\\MVC_Assessment_8\\mvc_assessment_8\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{61526541-36DD-475E-805C-D0952A60357F}|MVC_Assessment_8\\MVC_Assessment_8.csproj|solutionrelative:mvc_assessment_8\\models\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\ashokko\\Documents\\Training\\Assessment\\CC8\\MVC_Assessment_8\\MVC_Assessment_8\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "MVC_Assessment_8\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\ashokko\\Documents\\Training\\Assessment\\CC8\\MVC_Assessment_8\\MVC_Assessment_8\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "MVC_Assessment_8\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T06:59:22.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\ashokko\\Documents\\Training\\Assessment\\CC8\\MVC_Assessment_8\\MVC_Assessment_8\\Models\\Model1.edmx",
+              "RelativeDocumentMoniker": "MVC_Assessment_8\\Models\\Model1.edmx",
+              "ToolTip": "C:\\Users\\ashokko\\Documents\\Training\\Assessment\\CC8\\MVC_Assessment_8\\MVC_Assessment_8\\Models\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "MVC_Assessment_8\\Models\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2026-01-13T06:37:10.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomersinGermany.cshtml",
+              "DocumentMoniker": "C:\\Users\\ashokko\\Documents\\Training\\Assessment\\CC8\\MVC_Assessment_8\\MVC_Assessment_8\\Views\\Code\\CustomersinGermany.cshtml",
+              "RelativeDocumentMoniker": "MVC_Assessment_8\\Views\\Code\\CustomersinGermany.cshtml",
+              "ToolTip": "C:\\Users\\ashokko\\Documents\\Training\\Assessment\\CC8\\MVC_Assessment_8\\MVC_Assessment_8\\Views\\Code\\CustomersinGermany.cshtml",
+              "RelativeToolTip": "MVC_Assessment_8\\Views\\Code\\CustomersinGermany.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-13T06:32:52.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerDetailsforOrder.cshtml",
+              "DocumentMoniker": "C:\\Users\\ashokko\\Documents\\Training\\Assessment\\CC8\\MVC_Assessment_8\\MVC_Assessment_8\\Views\\Code\\CustomerDetailsforOrder.cshtml",
+              "RelativeDocumentMoniker": "MVC_Assessment_8\\Views\\Code\\CustomerDetailsforOrder.cshtml",
+              "ToolTip": "C:\\Users\\ashokko\\Documents\\Training\\Assessment\\CC8\\MVC_Assessment_8\\MVC_Assessment_8\\Views\\Code\\CustomerDetailsforOrder.cshtml",
+              "RelativeToolTip": "MVC_Assessment_8\\Views\\Code\\CustomerDetailsforOrder.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-13T06:32:00.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CodeController.cs",
+              "DocumentMoniker": "C:\\Users\\ashokko\\Documents\\Training\\Assessment\\CC8\\MVC_Assessment_8\\MVC_Assessment_8\\Controllers\\CodeController.cs",
+              "RelativeDocumentMoniker": "MVC_Assessment_8\\Controllers\\CodeController.cs",
+              "ToolTip": "C:\\Users\\ashokko\\Documents\\Training\\Assessment\\CC8\\MVC_Assessment_8\\MVC_Assessment_8\\Controllers\\CodeController.cs",
+              "RelativeToolTip": "MVC_Assessment_8\\Controllers\\CodeController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T06:25:27.031Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
