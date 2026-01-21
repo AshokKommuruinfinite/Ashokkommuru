@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ashokko\\Documents\\Training\\Assessment\\CC9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EAB6F8B9-5B1F-4396-BF17-1D3891B9808D}|CC9\\CC9.csproj|c:\\users\\ashokko\\documents\\training\\assessment\\cc9\\cc9\\controllers\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAB6F8B9-5B1F-4396-BF17-1D3891B9808D}|CC9\\CC9.csproj|solutionrelative:cc9\\controllers\\countrycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAB6F8B9-5B1F-4396-BF17-1D3891B9808D}|CC9\\CC9.csproj|c:\\users\\ashokko\\documents\\training\\assessment\\cc9\\cc9\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAB6F8B9-5B1F-4396-BF17-1D3891B9808D}|CC9\\CC9.csproj|solutionrelative:cc9\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAB6F8B9-5B1F-4396-BF17-1D3891B9808D}|CC9\\CC9.csproj|c:\\users\\ashokko\\documents\\training\\assessment\\cc9\\cc9\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{EAB6F8B9-5B1F-4396-BF17-1D3891B9808D}|CC9\\CC9.csproj|solutionrelative:cc9\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAB6F8B9-5B1F-4396-BF17-1D3891B9808D}|CC9\\CC9.csproj|c:\\users\\ashokko\\documents\\training\\assessment\\cc9\\cc9\\app_start\\swaggerconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAB6F8B9-5B1F-4396-BF17-1D3891B9808D}|CC9\\CC9.csproj|solutionrelative:cc9\\app_start\\swaggerconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAB6F8B9-5B1F-4396-BF17-1D3891B9808D}|CC9\\CC9.csproj|c:\\users\\ashokko\\documents\\training\\assessment\\cc9\\cc9\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAB6F8B9-5B1F-4396-BF17-1D3891B9808D}|CC9\\CC9.csproj|solutionrelative:cc9\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAB6F8B9-5B1F-4396-BF17-1D3891B9808D}|CC9\\CC9.csproj|c:\\users\\ashokko\\documents\\training\\assessment\\cc9\\cc9\\repositories\\countryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAB6F8B9-5B1F-4396-BF17-1D3891B9808D}|CC9\\CC9.csproj|solutionrelative:cc9\\repositories\\countryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAB6F8B9-5B1F-4396-BF17-1D3891B9808D}|CC9\\CC9.csproj|c:\\users\\ashokko\\documents\\training\\assessment\\cc9\\cc9\\models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAB6F8B9-5B1F-4396-BF17-1D3891B9808D}|CC9\\CC9.csproj|solutionrelative:cc9\\models\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\ashokko\\Documents\\Training\\Assessment\\CC9\\CC9\\Web.config",
+              "RelativeDocumentMoniker": "CC9\\Web.config",
+              "ToolTip": "C:\\Users\\ashokko\\Documents\\Training\\Assessment\\CC9\\CC9\\Web.config",
+              "RelativeToolTip": "CC9\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-01-21T05:45:55.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SwaggerConfig.cs",
+              "DocumentMoniker": "C:\\Users\\ashokko\\Documents\\Training\\Assessment\\CC9\\CC9\\App_Start\\SwaggerConfig.cs",
+              "RelativeDocumentMoniker": "CC9\\App_Start\\SwaggerConfig.cs",
+              "ToolTip": "C:\\Users\\ashokko\\Documents\\Training\\Assessment\\CC9\\CC9\\App_Start\\SwaggerConfig.cs",
+              "RelativeToolTip": "CC9\\App_Start\\SwaggerConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T05:31:46.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\ashokko\\Documents\\Training\\Assessment\\CC9\\CC9\\Global.asax.cs",
+              "RelativeDocumentMoniker": "CC9\\Global.asax.cs",
+              "ToolTip": "C:\\Users\\ashokko\\Documents\\Training\\Assessment\\CC9\\CC9\\Global.asax.cs",
+              "RelativeToolTip": "CC9\\Global.asax.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T05:05:43.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebApiConfig.cs",
+              "DocumentMoniker": "C:\\Users\\ashokko\\Documents\\Training\\Assessment\\CC9\\CC9\\App_Start\\WebApiConfig.cs",
+              "RelativeDocumentMoniker": "CC9\\App_Start\\WebApiConfig.cs",
+              "ToolTip": "C:\\Users\\ashokko\\Documents\\Training\\Assessment\\CC9\\CC9\\App_Start\\WebApiConfig.cs",
+              "RelativeToolTip": "CC9\\App_Start\\WebApiConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T05:04:24.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CountryController.cs",
+              "DocumentMoniker": "C:\\Users\\ashokko\\Documents\\Training\\Assessment\\CC9\\CC9\\Controllers\\CountryController.cs",
+              "RelativeDocumentMoniker": "CC9\\Controllers\\CountryController.cs",
+              "ToolTip": "C:\\Users\\ashokko\\Documents\\Training\\Assessment\\CC9\\CC9\\Controllers\\CountryController.cs",
+              "RelativeToolTip": "CC9\\Controllers\\CountryController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T04:46:37.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CountryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ashokko\\Documents\\Training\\Assessment\\CC9\\CC9\\Repositories\\CountryRepository.cs",
+              "RelativeDocumentMoniker": "CC9\\Repositories\\CountryRepository.cs",
+              "ToolTip": "C:\\Users\\ashokko\\Documents\\Training\\Assessment\\CC9\\CC9\\Repositories\\CountryRepository.cs",
+              "RelativeToolTip": "CC9\\Repositories\\CountryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T04:42:47.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Country.cs",
+              "DocumentMoniker": "C:\\Users\\ashokko\\Documents\\Training\\Assessment\\CC9\\CC9\\Models\\Country.cs",
+              "RelativeDocumentMoniker": "CC9\\Models\\Country.cs",
+              "ToolTip": "C:\\Users\\ashokko\\Documents\\Training\\Assessment\\CC9\\CC9\\Models\\Country.cs",
+              "RelativeToolTip": "CC9\\Models\\Country.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T04:38:03.673Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
